@@ -3,21 +3,23 @@ from PIL import Image
 
 def recolour_pixel(r, g, b):
     if r > g and r > b:
-        r, g, b = 255, 0, 0
+        r, g, b = 255, 0, 0 # red
     elif g > r and g > b:
-        r, g, b = 0, 255, 0
+        r, g, b = 0, 255, 0 # green
     elif b > r and b > g:
-        r, g, b = 0, 0, 255
+        r, g, b = 0, 0, 255 # blue
         
-    elif r == g == b:
-        r, g, b = 255, 255, 255
+    elif r == g == b and r >= 128:
+        r, g, b = 255, 255, 255 # white
+    elif r == g == b and r < 128:
+        r, g, b = 0, 0, 0 # black
         
     elif r == g and r != b:
-        r, g, b = 255, 255, 0
+        r, g, b = 255, 255, 0 # yellow
     elif g == b and g != r:
-        r, g, b = 0, 255, 255
+        r, g, b = 0, 255, 255 # cyan
     elif b == r and b != g:
-        r, g, b = 255, 0, 255
+        r, g, b = 255, 0, 255 # pink
         
     return r, g, b
 
@@ -49,7 +51,7 @@ if __name__ == "__main__":
     base_name = os.path.splitext(os.path.basename(file_path))[0]
     
     if os.path.isfile(file_path):
-        output_path = os.path.join(os.path.dirname(file_path), f"{base_name}_3color.png")
+        output_path = os.path.join(os.path.dirname(file_path), f"{base_name}_dominant_recolour.png")
         create_image(file_path, output_path)
     else:
         print("File does not exist. Please check the file path and try again.")
