@@ -21,7 +21,7 @@
 
 ## Revision Programs
 - [Revision Quote Generator](Revision%20Programs/Revision%20Quote%20Generator/main.py)
-  This project lets you create a .txt file to generate quotes, with randomly placed gaps in them. I used this for my Religion and Philosophy GCSE. There is also a streak system to display how many quotes you have gotten correct in a row. There are key symbols such as '//' (not read by script), '/c' (for Christianity quotes), '/i' (for Islam quotes).
+  This project lets you create a .txt file to generate quotes, with randomly placed gaps in them (common words such as 'the' and 'was' are excluded from being replaced). I used this for my Religion and Philosophy GCSE. There is also a streak system to display how many quotes you have gotten correct in a row. There are key symbols such as '//' (not read by script), '/c' (for Christianity quotes), '/i' (for Islam quotes). You can select which religion you want to generate quotes for.
   <br>[06/05/2024] - [15/05/2024]
 
 
