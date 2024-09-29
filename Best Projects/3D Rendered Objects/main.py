@@ -7,8 +7,6 @@ TYPE = "CUBE"
 MODE = "TIME"
 # COLORS = "<Vector3>" (e.g. (100, 255, 100)), "RAINBOW"
 COLOR = "RAINBOW"
-# FILLED = "TRUE", "FALSE"
-FILLED = "TRUE"
 
 pygame.init()
 
