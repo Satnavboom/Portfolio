@@ -2,7 +2,7 @@ import os
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
-file_name = input("Enter the filename (no extension): ") + ".bmp"
+file_name = input("Enter the filename to save to (no extension): ") + ".bmp"
 file_path = os.path.join(script_dir, file_name)
 
 width = int(input("Enter width (dec): "))
