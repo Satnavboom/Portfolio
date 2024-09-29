@@ -75,5 +75,7 @@ Both apps were made with Android Studio and use Kotlin.
 - I have made a few Discord bots to do tasks such as playing sounds, finding GIFs, sending messages, and mentioning users.
 
 - I have made some small modifications for games, such as an Infinite Sprint mod for 'Lethal Company' and a mod that adds new items, weapons and recipes to 'Minecraft'.
-  
+
+- I have made a few Godot projects.
+
 - There are 50+ additional projects that have not been included here.
