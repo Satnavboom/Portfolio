@@ -59,4 +59,7 @@
 ## Projects not added for whatever reason / Other Info
 - I made a very small-scale chat application (very basic GUI, only sending messages and saving usernames functionality), but it has personal details in the code that cannot be removed.
   <br>[25/08/2024]
+  
+- I have made a few Discord bots to do tasks such as playing sounds, finding GIFs, sending messages, and mentioning users.
+  
 - There are 50+ additional projects that have not been included here.
