@@ -20,7 +20,7 @@
 
 
 ## Android Applications
-These apps are not executable with the amount of code I have provided, as only the main files are included. Both apps were made with Android Studio and use Kotlin.
+Both apps were made with Android Studio and use Kotlin.
 - [Countdown App](Android%20Applications/Countdown%20App)
   This app counts down from a selected number. It has both a dark mode and a light mode, along with a selection of 5 fonts. It is horror themed so red text and 'scary' fonts. The app sends you a notification when it has finished counting down.
   <br>[DEMO](https://www.youtube.com/shorts/CixVAkovW0E)
