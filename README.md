@@ -20,11 +20,16 @@
 
 
 ## Android Applications
-These apps are not executable with the amount of code I have provided, as only the main files are included. Both apps were made with Android Studio and use Kotlin.
+Both apps were made with Android Studio and use Kotlin.
 - [Countdown App](Android%20Applications/Countdown%20App)
   This app counts down from a selected number. It has both a dark mode and a light mode, along with a selection of 5 fonts. It is horror themed so red text and 'scary' fonts. The app sends you a notification when it has finished counting down.
   <br>[DEMO](https://www.youtube.com/shorts/CixVAkovW0E)
   <br>[31/08/2024]
+
+- [25 Squares](Android%20Applications/25%20Squares)
+  This app is a game where you must click the green square as fast as possible, 25 times, to win. There is also a yellow square that shows where the next green square will be so the game plays faster.
+  <br>[DEMO](https://www.youtube.com/shorts/Q9Syssx3PLY)
+  <br>[01/09/2024]
 
 ## Revision Programs
 - [Revision Quote Generator](Revision%20Programs/Revision%20Quote%20Generator/main.py)
