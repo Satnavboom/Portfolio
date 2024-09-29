@@ -26,6 +26,11 @@ Both apps were made with Android Studio and use Kotlin.
   <br>[DEMO](https://www.youtube.com/shorts/CixVAkovW0E)
   <br>[31/08/2024]
 
+- [25 Squares](Android%20Applications/25%20Squares)
+  This app is a game where you must click the green square as fast as possible, 25 times, to win. There is also a yellow square that shows where the next green square will be so the game plays faster.
+  <br>[DEMO](https://www.youtube.com/shorts/Q9Syssx3PLY)
+  <br>[01/09/2024]
+
 ## Revision Programs
 - [Revision Quote Generator](Revision%20Programs/Revision%20Quote%20Generator/main.py)
   This project lets you create a .txt file to generate quotes, with randomly placed gaps in them (common words such as 'the' and 'was' are excluded from being replaced). I used this for my Religion and Philosophy GCSE. There is also a streak system to display how many quotes you have gotten correct in a row. There are key symbols such as '//' (not read by script), '/c' (for Christianity quotes), '/i' (for Islam quotes). You can select which religion you want to generate quotes for.
