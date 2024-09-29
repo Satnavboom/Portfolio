@@ -4,10 +4,15 @@
 - [3D Rendered Objects](Best%20Projects/3D%20Rendered%20Objects/main.py)
   This project can render outlined predefined shapes, such as a cube, a cone, and a sphere. It can display one permanently, or cycle between the shapes. The shape outlines can be any solid colour, or rainbow if specified. It also displays the FPS (165 cap by default, as my monitor is 165hz)
   <br>[29/07/2024]
-
+  
 - [Game of Life](Best%20Projects/Game%20of%20Life/main.py)
   This project is my version of Conway's Game of Life simulation, with colour, in the console.
   <br>[17/09/2024]
+
+- [Image/Video to ASCII](Best%20Projects/Image%20Video%20to%20ASCII/main.py)
+  This is probably my favourite project.
+  This project converts either an image or a video (video must be very small) to an ASCII image with colours. When converting a video, it creates a temporary audio file and re-applies it at the end.
+  <br>[10/08/2024] - [12/08/2024]
 
 
 ## Image Manipulation
