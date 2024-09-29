@@ -14,6 +14,10 @@
   This project converts either an image or a video (video must be very small) to an ASCII image with colours. When converting a video, it creates a temporary audio file and re-applies it at the end.
   <br>[10/08/2024] - [12/08/2024]
 
+- [Number of Characters in File Chart](Best%20Projects/Number%20of%20Characters%20in%20File%20Chart/main.py)
+  This project takes a file as an input, and displays the number of uppercase and lowercase letters, along with numbers, common characters, and unknown characters. This information is displayed on a chart.
+  <br>[29/09/2024]
+
 
 ## Image Manipulation
 - [Invert Image Colours](Image%20Manipulation/Invert%20Image%20Colours/main.py)
