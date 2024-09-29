@@ -19,6 +19,13 @@
   <br>[29/09/2024]
 
 
+## Android Applications
+These apps are not executable with the amount of code I have provided, as only the main files are included. Both apps were made with Android Studio and use Kotlin.
+- [Countdown App](Android%20Applications/Countdown%20App)
+  This app counts down from a selected number. It has both a dark mode and a light mode, along with a selection of 5 fonts. It is horror themed so red text and 'scary' fonts. The app sends you a notification when it has finished counting down.
+  <br>[DEMO](https://www.youtube.com/shorts/CixVAkovW0E)
+  <br>[31/08/2024]
+
 ## Revision Programs
 - [Revision Quote Generator](Revision%20Programs/Revision%20Quote%20Generator/main.py)
   This project lets you create a .txt file to generate quotes, with randomly placed gaps in them (common words such as 'the' and 'was' are excluded from being replaced). I used this for my Religion and Philosophy GCSE. There is also a streak system to display how many quotes you have gotten correct in a row. There are key symbols such as '//' (not read by script), '/c' (for Christianity quotes), '/i' (for Islam quotes). You can select which religion you want to generate quotes for.
@@ -62,6 +69,6 @@
   
 - I have made a few Discord bots to do tasks such as playing sounds, finding GIFs, sending messages, and mentioning users.
 
-- I have made some small modifications for games, such as an Infinite Sprint mod for 'Lethal Company' and a mod that adds new items, weapons and recipes to 'Minecraft'
+- I have made some small modifications for games, such as an Infinite Sprint mod for 'Lethal Company' and a mod that adds new items, weapons and recipes to 'Minecraft'.
   
 - There are 50+ additional projects that have not been included here.
