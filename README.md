@@ -47,11 +47,14 @@
 - [BMP Creator](Misc%20Projects/BMP%20Creator/main.py)
   This project creates a bitmap (BMP) file with headers. You can then write the hex values for colours to create the image.
   <br>[13/08/2024]
-
+  
 - [OPUS to MP3 Converter](Misc%20Projects/OPUS%20to%20MP3%20Converter/main.py)
   This project converts an OPUS file to an MP3 file. I used this for downloading and converting WhatsApp Audio. I also made a windows option to convert a file from OPUS to MP3 when it the file is right-clicked on.
   <br>[01/08/2024]
 
+- [Loading Scare](Misc%20Projects/Loading%20Scare/main.py)
+  This project simulates a loading bar with a non-linear increase, that once reaching 99% has a short delay before playing a short, loud sound.
+  <br>[03/06/2023]
 
 ## Projects not added for whatever reason / Other Info
 - I made a very small-scale chat application (very basic GUI, only sending messages and saving usernames functionality), but it has personal details in the code that cannot be removed.
