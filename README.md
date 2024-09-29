@@ -5,6 +5,10 @@
   This project can render outlined predefined shapes, such as a cube, a cone, and a sphere. It can display one permanently, or cycle between the shapes. The shape outlines can be any solid colour, or rainbow if specified. It also displays the FPS (165 cap by default, as my monitor is 165hz)
   <br>[29/07/2024]
 
+- [Game of Life](Best%20Projects/Game%20of%20Life/main.py)
+  This project is my version of Conway's Game of Life simulation, with colour, in the console.
+  <br>[17/09/2024]
+
 
 ## Image Manipulation
 - [Invert Image Colours](Image%20Manipulation/Invert%20Image%20Colours/main.py)
@@ -26,6 +30,6 @@
   <br>[13/08/2024]
 
 
-## Projects not added for whatever reason
+## Projects not added for whatever reason / Other Info
 - I made a very small-scale chat application (very basic GUI, only sending messages and saving usernames functionality), but it has personal details in the code that cannot be removed.
   <br>[25/08/2024]
