@@ -38,6 +38,10 @@
   This project shifts the RGB values (specified by user) in an image. It then saves it to a new file, '{filename}_rgbshifted.png'
   <br>[12/08/2024]
 
+- [Greyscaler](Image%20Manipulation/Greyscaler/main.py)
+  This project can convert an image to black and white (2 colours), black, white and grey (3 colours), or greyscale (256 colours)
+  <br>[16/06/2024]
+
 
 ## Misc Projects
 - [BMP Creator](Misc%20Projects/BMP%20Creator/main.py)
