@@ -24,3 +24,7 @@
 - [BMP Creator](Misc%20Projects/BMP%20Creator/main.py)
   This project creates a bitmap (BMP) file with headers. You can then write the hex values for colours to create the image.
   <br>[13/08/2024]
+
+## Projects not added for whatever reason
+- I made a very small-scale chat application (very basic GUI, only sending messages and saving usernames functionality), but it has personal details in the code that cannot be removed.
+  <br>[25/08/2024]
