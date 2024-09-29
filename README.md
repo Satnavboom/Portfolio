@@ -2,7 +2,7 @@
 
 ## Best Projects
 - [3D Rendered Objects](Best%20Projects/3D%20Rendered%20Objects/main.py)
-  This project can render outlined predefined shapes, such as a cube, a cone, and a sphere. It can display one permanently, or cycle between the shapes. The shapes can be any solid colour, or rainbow if specified. It also displays the FPS (165 cap by default, as my monitor is 165hz)
+  This project can render outlined predefined shapes, such as a cube, a cone, and a sphere. It can display one permanently, or cycle between the shapes. The shape outlines can be any solid colour, or rainbow if specified. It also displays the FPS (165 cap by default, as my monitor is 165hz)
   <br>[29/07/2024]
 
 
